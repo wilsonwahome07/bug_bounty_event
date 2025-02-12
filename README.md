@@ -14,7 +14,7 @@ Unlock a secret reward by fixing intentional bugs in this Python project! Perfec
 2. **Clone Your Fork**
 
 ```bash
-git clone https://github.com/bug_bouty_event.git
+git clone https://github.com/YOUR-USERNAME/bug_bouty_event.git
 cd bug-bounty-event
 ```
 
