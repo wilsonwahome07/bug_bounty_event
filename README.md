@@ -68,7 +68,7 @@ git push origin team-awesome-name
 
 # Fix code in src/magic_calculator.py and tests/test_magic.py
 # Test iteratively:
-python tests/test_magic.py
+python src/test_magic.py
 
 # When tests pass locally:
 git push origin your-team-branch
